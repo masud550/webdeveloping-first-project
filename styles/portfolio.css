@@ -1,0 +1,219 @@
+.desktop-1 .hero-bg {
+    position: absolute;
+    left: 50%;
+    top: 131px;
+    translate: -50% 0;
+    width: 1440px;
+    height: 652px;
+  }
+  .desktop-1 .awlad-h {
+    margin: 12px 16.5px 12px 0;
+    display: inline-block;
+    width: 128px;
+    overflow-wrap: break-word;
+    font-family: 'Azeret Mono';
+    font-weight: 800;
+    font-size: 28px;
+    color: #0D1321;
+  }
+  .desktop-1 .download-resume {
+    overflow-wrap: break-word;
+    font-family: 'Azeret Mono';
+    font-weight: 600;
+    font-size: 20px;
+    color: #0D1321;
+  }
+  .desktop-1 .frame-21 {
+    opacity: 0.8;
+    border-radius: 8px;
+    border: 1px solid #0D1321;
+    display: flex;
+    padding: 16px 23.5px;
+    box-sizing: border-box;
+  }
+  .desktop-1 .container {
+    position: relative;
+    margin-bottom: 62px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1140px;
+    box-sizing: border-box;
+  }
+  .desktop-1 .group-29 {
+    width: 240.3px;
+    height: 240px;
+  }
+  .desktop-1 .group-28 {
+    margin-bottom: 32px;
+    display: flex;
+    width: 240.3px;
+    height: 240px;
+    box-sizing: border-box;
+  }
+  .desktop-1 .in-the-near-future-ihope-to-become-adeveloper {
+    margin-bottom: 24px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Azeret Mono';
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 1.417;
+    color: #0D1321;
+  }.desktop-1 .lorem-ipsumis-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text {
+    opacity: 0.7;
+    margin: 0 52px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Azeret Mono';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #0D1321;
+  }
+  .desktop-1 .frame-1 {
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop-1 .contact-with-me {
+    overflow-wrap: break-word;
+    font-family: 'Azeret Mono';
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+  }.desktop-1 .frame-2 {
+    border-radius: 8px;
+    background: #0D1321;
+    display: flex;
+    padding: 21px 0;
+    width: 244px;
+    box-sizing: border-box;
+  }
+  .desktop-1 .frame-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop-1 .frame-4 {
+    position: relative;
+    margin-bottom: 119px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop-1 .why-web-development {
+    margin-bottom: 24px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Azeret Mono';
+    font-weight: 800;
+    font-size: 32px;
+    color: #0D1321;
+  }
+  .desktop-1 .lorem-ipsumis-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-1 {
+    opacity: 0.7;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Azeret Mono';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #0D1321;
+  }
+  .desktop-1 .frame-5 {
+    margin-bottom: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop-1 .iwill-do-coding-and-change-the-world {
+    margin-bottom: 16px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Azeret Mono';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.5;
+    color: rgba(13, 19, 33, 0.7);
+  }
+  .desktop-1 .lorem-ipsumis-simply-dummy-text-of-the-printing-and-typesetting-industry {
+    opacity: 0.7;
+    overflow-wrap: break-word;
+    font-family: 'Azeret Mono';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #0D1321;
+  }
+  .desktop-1 .frame-61 {
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop-1 .learn-more {
+    overflow-wrap: break-word;
+    font-family: 'Azeret Mono';
+    font-weight: 600;
+    font-size: 20px;
+    color: #0D1321;
+  }
+  .desktop-1 .frame-7 {
+    opacity: 0.7;
+    border: 1px solid #0D1321;
+    display: flex;
+    align-self: flex-start;
+    padding: 11px 19.5px;
+    box-sizing: border-box;
+  }
+  .desktop-1 .frame-9 {
+    margin: 6.7px 171.2px 0 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .desktop-1 .group-80 {
+    width: 259.6px;
+    height: 217px;
+  }
+  .desktop-1 .group-2 {
+    margin-bottom: 8.7px;
+    display: flex;
+    width: 274.2px;
+    height: 240px;
+    box-sizing: border-box;
+  }
+  .desktop-1 .frame-8 {
+    border-radius: 16px;
+    background: linear-gradient(90deg, #FFFFFF, rgba(255, 255, 255, 0));
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: row;
+    padding: 51.8px 61.7px 58.5px 48px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop-1 .group-103 {
+    width: 223.2px;
+    height: 208.9px;
+  }
+  .desktop-1 .group-3 {
+    margin: 0 48.8px 20.6px 0;
+    display: flex;
+    width: 240px;
+    height: 240px;
+    box-sizing: border-box;
+  }
